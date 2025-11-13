@@ -29,6 +29,7 @@ The tarballs for `libzenohc_jll.jl` have been built from these sources:
 * `macOS x86_64` (`x86_64-apple-darwin`)
 * `Linux x86_64 {libc=glibc}` (`x86_64-linux-gnu`)
 * `Linux x86_64 {libc=musl}` (`x86_64-linux-musl`)
+* `Windows x86_64` (`x86_64-w64-mingw32`)
 
 ## Products
 
