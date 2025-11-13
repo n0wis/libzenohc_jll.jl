@@ -1,10 +1,10 @@
 [[libzenohc]]
 arch = "aarch64"
-git-tree-sha1 = "32e087211db83ca39bc2c231bd6869ad323a21df"
+git-tree-sha1 = "358503e33e974e5eb343d752fcc728a8e7aacaea"
 os = "macos"
 
     [[libzenohc.download]]
-    sha256 = "29d1ea898867b7582e80d45db41accdf6f29c4689f61b8659a4fcb9f9d7a2c16"
+    sha256 = "a4d1da09ee4f7537a32340c9e139abce0cc9aaf209a7b21ca9ccfecdcd10996b"
     url = "https://github.com/n0wis/libzenohc_jll.jl/releases/download/libzenohc-v1.6.2+0/libzenohc.v1.6.2.aarch64-apple-darwin.tar.gz"
 [[libzenohc]]
 arch = "aarch64"
@@ -93,11 +93,11 @@ os = "linux"
     url = "https://github.com/n0wis/libzenohc_jll.jl/releases/download/libzenohc-v1.6.2+0/libzenohc.v1.6.2.powerpc64le-linux-gnu.tar.gz"
 [[libzenohc]]
 arch = "x86_64"
-git-tree-sha1 = "a3d8551c366426d402b9db391e74bf375f689e92"
+git-tree-sha1 = "ed5cc925217bf74a162bbe2a0dfcbbf71fe2d604"
 os = "macos"
 
     [[libzenohc.download]]
-    sha256 = "fc37e3e19c0336cef6362aec5b0e1f05a7c3dc6ff0195b56353324e4638ee0c9"
+    sha256 = "89906c14d4271c5a238c70c0f2028bbc9ea41903655fd136928159346d39e8ff"
     url = "https://github.com/n0wis/libzenohc_jll.jl/releases/download/libzenohc-v1.6.2+0/libzenohc.v1.6.2.x86_64-apple-darwin.tar.gz"
 [[libzenohc]]
 arch = "x86_64"
@@ -119,9 +119,9 @@ os = "linux"
     url = "https://github.com/n0wis/libzenohc_jll.jl/releases/download/libzenohc-v1.6.2+0/libzenohc.v1.6.2.x86_64-linux-musl.tar.gz"
 [[libzenohc]]
 arch = "x86_64"
-git-tree-sha1 = "f367ff11781cfb82f98d0beb1585873e745c3e7d"
+git-tree-sha1 = "2d62f6672702b8c31a4667c9c34e8b5689e1421d"
 os = "windows"
 
     [[libzenohc.download]]
-    sha256 = "269b8183c473beccce316c170e98880a266bc62008ae8200c1af09af379109cc"
+    sha256 = "1e648a2c0892d8f5cdbc01f848394a7192e1fa208eae1af2f9b5847a556af2ce"
     url = "https://github.com/n0wis/libzenohc_jll.jl/releases/download/libzenohc-v1.6.2+0/libzenohc.v1.6.2.x86_64-w64-mingw32.tar.gz"
